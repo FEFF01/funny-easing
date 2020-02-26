@@ -1,0 +1,17 @@
+{
+  "name": "funny-easing",
+  "version": "1.0.0",
+  "main": "./js/easing.min.js",
+  "private": false,
+  "license": "MIT",
+  "keywords": [
+    "anime",
+    "animation",
+    "easing",
+    "tween"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FEFF01/funny-easing.git"
+  }
+}
