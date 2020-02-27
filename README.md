@@ -9,7 +9,7 @@
 
 ```javascript
     import Easing from 'funny-easing';
-    //const Easing = require('funny-easing');
+    //const {default:Easing} = require('funny-easing');
 
     let easeing=Easing.easeInOutBounce.toFunction();
     //Easing.elastic(1,0.5).mirror().toFunction();
