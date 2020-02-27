@@ -1,6 +1,6 @@
 ## funny-easing
 
-> * [demo](https://feff01.github.io/funny-anime/dist/test_easing.html)
+> * [Examples](https://feff01.github.io/funny-anime/dist/test_easing.html)
 
 
 ```
@@ -8,6 +8,8 @@
 ```
 
 ```javascript
-    import FunnyAnime from 'funny-easing';
-    //const FunnyAnime = require('funny-easing');
+    import Easing from 'funny-easing';
+    //const Easing = require('funny-easing');
+
+
 ```
