@@ -15,6 +15,6 @@
     //Easing.elastic(1,0.5).mirror().toFunction();
     //Easing.elastic(1, 0.5).mirror().symmetry().toFunction();
     //Easing.easeReverse.concat(Easing.easeBack).toFunction();
-
+    //Easing.easeReverse.concat(Easing.easeBack).step(10).toFunction();
     console.log(easeing(0.5));
 ```
