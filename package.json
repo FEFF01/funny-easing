@@ -1,6 +1,7 @@
 {
   "name": "funny-easing",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "description": "Easing functions generator",
   "main": "./js/easing.min.js",
   "private": false,
   "license": "MIT",
